@@ -9,6 +9,9 @@ public class b2530 {
         int h = input.nextInt();
         int m = input.nextInt();
         int s = input.nextInt();
+        
+        int a = input.nextInt();
+        
     }
 }
 

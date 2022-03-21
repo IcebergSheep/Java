@@ -18,14 +18,14 @@ public class b2884 {
             m += 15;
             h -= 1;
             if(h<=1){
-                h = 12;
+                h = 24;
             }
         }
         else {
             m += 15;
             h -= 1;
             if(h<=1){
-                h = 12;
+                h = 24;
             }
         }
         System.out.println(h+" "+m);

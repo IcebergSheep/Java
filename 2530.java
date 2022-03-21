@@ -11,12 +11,9 @@ public class b2530 {
         int s = input.nextInt(); // second
         
         int a = input.nextInt();
-        a += s;
-        
-        h =% 24;
-        m =% 60;
+        s += a;
         s %= 60;
-        
+
     }
 }
 
